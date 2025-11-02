@@ -915,3 +915,12 @@ config/database.yml
 *.zip
 
 # ===== END =====
+!package-lock.json
+!package.json
+!public/
+!public/**
+!tsconfig.json
+!tailwind.config.ts
+!next-env.d.ts
+!lib/
+!lib/**
